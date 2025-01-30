@@ -1,0 +1,17 @@
+This is GUI Python project which helps the conversion of excel file(English to Marathi)
+
+Simply copy paste this project and do folllow steps:
+
+Here is modules require to run this project.
+i am writing direct cmd's so that it will be easy for you to copy paste.
+
+pip install pandas
+pip install kivy
+pip install kivymd
+pip install pillow
+pip install deep_translator 
+pip install openpyxl
+
+Just confirm all the above things and you are good to go ... Run the python file.
+
+If you want to help in any project dm in on this insta id emigme_demon

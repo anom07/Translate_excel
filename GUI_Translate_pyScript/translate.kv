@@ -1,0 +1,11 @@
+<TranslatorApp>:
+    orientation: 'vertical'
+    FileChooserIconView:
+        id: file_chooser
+        filters: ['*.xlsx']
+    Label:
+        id: status_label
+        text: "Select an Excel file to translate."
+    Button:
+        text: "Translate to Marathi"
+        on_press: root.translate_file()
